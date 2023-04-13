@@ -13,4 +13,7 @@ How to upgrade Jenkins?
 How to detect passwords in codes during build?
 what are recent Jenkins build failure that you have worked on?
 what is CI/CD
-
+How do you integrate Jenkins with GitHub?
+How do you integrate Jenkins with Bitbucket?
+How do you restart Jenkins?
+What is Upstreaming and Downstreaming in Jenkins Pipeline?
